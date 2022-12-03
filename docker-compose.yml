@@ -1,0 +1,8 @@
+version: '3'
+services:
+  nrclunes:
+    build: .
+    ports:
+      - '4000:3001'
+    environment:
+      - PORT=3001

@@ -1,0 +1,4 @@
+{
+    "MONGODB_URL": "mongodb+srv://admin:Wi6G96YmCA60fc9m@cluster0.gfhuiwi.mongodb.net/?retryWrites=true&w=majority",
+    "SECRET": "apiSecretKey"
+}
